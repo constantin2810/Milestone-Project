@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+{
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-image: url(https://images.pexels.com/photos/39308/runners-silhouettes-athletes-fitness-39308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 80vh;
+    background-size: cover;
+    background-position: fit;
+}
+
+#logo {
+    float: left;
+    font-size: 260%;
+    margin-left: 40px;
+    margin-top: 30px;
+    text-align: left;
+    color: yellow;
+}
+
+/*--Nav--*/
+
+.navbar-nav li a {
+    float: right;
+    color: black;
+
+    
+}
+
+.navbar-toggler {
+    border: none;
+    outline: none;
+}
+
+nav {
+    color: #fff;
+    font-size: 26px;
+}
+
+/*--Running for a Cause--*/
+
+.running {
+    padding: 50px;
+    margin-top: -100px;
+    background-color: transparent;
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.2);
+    margin-left: 10px;
+    margin-right: 100px;
+
+}
+
+.running h1 {
+    color: blue;
+}
+
+.heart {
+    padding-left: 50%;
+    margin-top: -300px;
+    margin-bottom: unset;
+    margin-right: 100px;
+    margin-left: 10px;
+
+}
+
+.heart ul {
+    display: inline;
+    text-align: center;
+}
+
