@@ -1,24 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
-{
-    margin: 0;
-    padding: 0;
-}
+
+  /*--Header--*/
 
 #header {
-    background-image: url(https://images.pexels.com/photos/39308/runners-silhouettes-athletes-fitness-39308.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-image: url(https://www.fitneass.com/wp-content/uploads/2015/05/Charity-Run.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     height: 80vh;
 }
 
+  /*--Logo--*/
+
 #logo {
     float: left;
-    font-size: 260%;
+    font-size: 300%;
     margin-left: 40px;
-    margin-top: 30px;
+    margin-top: 40px;
     text-align: left;
-    color: yellow;
+    color: blue;
 }
 
 /*--Nav--*/
@@ -35,12 +35,7 @@
     outline: none;
 }
 
-nav {
-    color: yellowgreen;
-    font-size: 26px;
-}
-
-/*--Running for a Cause--*/
+  /*--Running for a Cause--*/
 
 .running {
     padding: 50px;
@@ -70,7 +65,7 @@ nav {
     text-align: center;
 }
 
-/*--Photo--*/
+  /*--Photo--*/
 
 #photo {
     column-count: 2;
@@ -83,7 +78,7 @@ nav {
     width: 100%;
 }
 
-/*--Contact--*/
+  /*--Contact--*/
 
 body {
     background: #55ffe5;
@@ -108,9 +103,10 @@ body {
 .contact-right {
     flex-basis: 40%;
     padding: 40px;
-    background: #1c00b5;
+    background: #0003b5e5;
     color: #fff;
 }
+
 
 h1 {
     margin-bottom: 10px;
@@ -119,6 +115,8 @@ h1 {
 .container p {
     margin-bottom: 40px;
 }
+
+  /*--Input--*/
 
 .input-row {
     display: flex;
@@ -138,6 +136,8 @@ input{
     padding-bottom: 5px;
 }
 
+  /*--Textarea--*/
+
 textarea {
     width: 100%;
     border: 1px solid #ccc;
@@ -145,6 +145,8 @@ textarea {
     padding: 10px;
     box-sizing: border-box;
 }
+
+  /*--Button--*/
 
 button {
     background: #1c00b5;
@@ -164,4 +166,10 @@ tr td:first-child {
 
 tr td {
     padding-top: 20px;
+}
+
+  /*--Card--*/
+
+.card {
+    display: flex;
 }
