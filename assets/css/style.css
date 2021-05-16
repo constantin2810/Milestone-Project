@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 
-@-ms-viewport {
-    width: device-width;
-}
 
   /*--Header--*/
 
@@ -54,15 +51,7 @@
     width: 100%;
 }
 
-  /*--Social Networks--*/
-
-#row {
-    column-count: 0;
-    clear: both;
-    column-gap: 0;
-    line-height: 0;
-}
-
+  
   /*--Contact--*/
 
 body {
