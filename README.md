@@ -2,7 +2,7 @@
 
 <h1 align="center">First Milestone Project</h1>
 
-[View the live project here.](https://8000-lime-mollusk-ug82zxra.ws-eu03.gitpod.io/index.html)
+[View the live project here.](https://constantin2810.github.io/Milestone-Project/)
 
 This is the main website for my "First Milestone Project". It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
  I have been inspired by this websites : - https://www.runnersworld.com/advanced/a20805292/running-for-a-cause/#
