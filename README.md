@@ -5,9 +5,10 @@
 [View the live project here.](https://8000-lime-mollusk-ug82zxra.ws-eu03.gitpod.io/index.html)
 
 This is the main website for my "First Milestone Project". It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
- I have been inspired by this websites :https://www.runnersworld.com/advanced/a20805292/running-for-a-cause/#
-                                        https://blog.fitbit.com/run-for-a-good-cause/ 
-                                        https://www.motivrunning.com/
+ I have been inspired by this websites : - https://www.runnersworld.com/advanced/a20805292/running-for-a-cause/#
+                                         - https://blog.fitbit.com/run-for-a-good-cause/ 
+                                         - https://www.motivrunning.com/
+                                         - https://www.bing.com/videos/search?q=youtube+run+for+charity&qpvt=youtube+run+for+charity&FORM=VDRE
 
 <h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
@@ -136,13 +137,6 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs
-
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
-
-## Deployment
 
 ### GitHub Pages
 
@@ -210,6 +204,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
+-     THANK YOU all for your support.
 
 
 
