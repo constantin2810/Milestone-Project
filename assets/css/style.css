@@ -28,15 +28,38 @@
 
 .navbar-nav li a {
     float: right;
-    color: yellow;
-
-    
+    color: white;
 }
 
 .navbar-toggler {
     border: none;
     outline: none;
 }
+
+
+
+
+
+  /*--Running From the Heart--*/
+
+.container-fluid {
+    text-align: center;
+}
+
+  /*--Main jumbotron--*/
+
+.jumbotron {
+    text-align: center;
+}
+
+
+
+  /*--Tips for Running--*/
+
+footer {
+      text-align: center;
+      padding: 3px;
+  }
 
   /*--Photo--*/
 
@@ -54,31 +77,34 @@
   
   /*--Contact--*/
 
-body {
-    background: #55ffe5;
-    font-size: 14px;
+input[type=text],select,textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
 
-.container {
-    width: 80%;
-    margin:50px auto
+input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
-.contact-box {
-    background: #fff;
-    display: flex;
-}
-
-.contact-left {
-    flex-basis: 60%;
-    padding: 40px 60px;
-}
 
 .contact-right {
-    flex-basis: 40%;
-    padding: 40px;
-    background: yellowgreen;
+    flex-basis: 20%;
+    padding: 20px;
+    background: #04AA6D;
     color: #fff;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
 }
 
 
@@ -159,4 +185,19 @@ tr td {
       width: 100%;
       height: 100%;
   }
+
+   /*--footer--*/
+
+  .footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    top: auto;
+    width: 100%;
+    background-color: transparent;
+    text-align: end;
+    color: black;
+  }
+
+  
 

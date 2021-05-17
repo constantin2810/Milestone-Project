@@ -49,40 +49,34 @@
      </nav>
 </header>
 
-<div class="container-fluid">
-    <h1>Connect With Us</h1>
-    <p>We would love to respond to your queries and help you.</p>
-    <div class="contact-box">
-        <div class="contact-left">
-          <h3>Sent your reqest</h3>
-          <form>
-            <div class="input-row">
-            <div class="input-group">
-              <label>Name</label>
-              <input type="text" placeholder="coco roki">
-            </div>
-            <div class="input-group">
-              <label>Phone</label>
-              <input type="text" placeholder="07766353745">
-            </div>
-          </div>
-          <div class="input-row">
-            <div class="input-group">
-              <label>Email</label>
-              <input type="email" placeholder="dotra67@yahoo.com">
-            </div>
-            <div class="input-group">
-              <label>Subject</label>
-              <input type="text" placeholder="anonymous">
-            </div>
-          </div>
 
-          <label>Message</label>
-          <textarea rows="5" placeholder="Your Message"></textarea>
+  <div class="container">
+    <form action="action_page.php">
 
-          <button type="submit">Send</button>
-          </form>
-        </div>
+      <label for="fname">First Name</label>
+      <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+      <label for="lname">Last Name</label>
+      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+      <label for="country">Country</label>
+      <select id="country" name="country">
+        <option value="europa">Europa</option>
+        <option value="usa">USA</option>
+        <option value="uk">UK</option>
+        <option value="ireland">Ireland</option>
+        <option value="romania">Romania</option>
+      </select>
+
+      <label for="subject">Subject</label>
+      <textarea id="subject" name="subject" placeholder="Write something.." style="height: 200px"></textarea>
+
+      ,<input type="submit" value="Submit">
+    </form>
+  </div>         
+    
+  <hr>
+      <footer>  
         <div class="contact-right">
           <h3>Reach us</h3>
           <table>
@@ -100,9 +94,16 @@
             </tr>
           </table>
         </div>
+      </footer>
     </div>
   </div>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+  <div class="footer">
+    <h6>RUNNING FOR A CAUSE 2021 ©</h6>
+    <h6>SITE MADE BY CONSTANTIN</h6>
+    
+  </div>
+
 </body>
 </html>
