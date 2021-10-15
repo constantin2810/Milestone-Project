@@ -37,7 +37,7 @@ This is the main website for my "First Milestone Project". It is designed to be 
     
 -   ### Wireframes
 
-    -  Mobile, Tablet, and Desktop wireframes are all available [here.](assets/docs/Milestone 1.pdf)
+    -  Mobile, Tablet, and Desktop wireframes are all available [here.](docs/wireframes.pdf)
 
 -   ### Design
     -   #### Colour Scheme
