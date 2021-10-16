@@ -12,7 +12,7 @@ This is the main website for my "First Milestone Project". It is designed to be 
      I made this site for people to get connected fast and easy to some charity sites.The aim was for people to find locations and dates for different events for charity purpose.
      If a person wants to contribute with time and generosity will be able to access quickly different sites to get connected with people having the same dream. 
 
-![My Image](https://github.com/constantin2810/Milestone-Project.git/docs/responsive image.png)
+![Am I Responsive image of how the landing page looks across different browser sizes](docs/responsive.png)
 
 ## User Experience (UX)
 
