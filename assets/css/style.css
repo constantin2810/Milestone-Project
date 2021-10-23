@@ -80,10 +80,15 @@ footer {
     column-gap: 0;
     line-height: 0;
     margin-top: 0px;
+    margin-bottom: 0;
+    
+    
 }
 
 #photo img {
     width: 100%;
+    
+    
 }
 
   
@@ -106,6 +111,8 @@ input[type=submit] {
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    width: 30%;
+    margin-left: 35%;
 }
 
 
@@ -114,9 +121,8 @@ input[type=submit] {
     padding: 10px;
     background: blueviolet;
     color: #fff;
-    margin-left: 200px;
-    margin-right: 200px;
     text-align: center;
+    border-radius: 6px;
 }
 
 
@@ -189,6 +195,13 @@ tr td {
       width: 100%;
       padding-bottom: 60%;
       height: 0;
+  }
+
+  /*--cards--*/
+
+  .card-img-top {
+      width: 100%;
+      height: 400px;
   }
 
   .iframe-container iframe {
