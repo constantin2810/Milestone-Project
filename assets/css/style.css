@@ -197,12 +197,21 @@ tr td {
       height: 0;
   }
 
+  /*--carusel--*/
+
+  .carusel-item-img {
+      width: 100%;
+      height: 400px;
+  }
+
   /*--cards--*/
 
   .card-img-top {
       width: 100%;
       height: 400px;
   }
+
+  /*--iframe style--*/
 
   .iframe-container iframe {
       position: absolute;
