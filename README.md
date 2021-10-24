@@ -4,11 +4,18 @@
 
 [View the live project here.](https://constantin2810.github.io/Milestone-Project/)
 
-This is the main website for my "First Milestone Project". It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential students and partners.
- I have been inspired by this websites : - https://www.runnersworld.com/advanced/a20805292/running-for-a-cause/#
-                                         - https://blog.fitbit.com/run-for-a-good-cause/ 
-                                         - https://www.motivrunning.com/
-                                         - https://www.bing.com/videos/search?q=youtube+run+for+charity&qpvt=youtube+run+for+charity&FORM=VDRE
+## Running for a cause
+
+-    ### This is the main website for my "First Milestone Project". 
+     It is designed to be responsible and accessible on a range of devices, making it easy to navigate for potential students and partners.
+     - #### I have been inspired by this websites : 
+         - https://www.runnersworld.com/advanced/a20805292/running-for-a-cause/#
+         - https://blog.fitbit.com/run-for-a-good-cause/ 
+         - https://therunningcharity.org/
+         - https://therunningcharity.org/
+         - https://www.motivrunning.com/
+         - https://www.bing.com/videos/search?q=youtube+run+for+charity&qpvt=youtube+run+for+charity&FORM=VDRE
+                                                                    
      I made this site for people to get connected fast and easy to some charity sites.The aim was for people to find locations and dates for different events for charity purpose.
      If a person wants to contribute with time and generosity will be able to access quickly different sites to get connected with people having the same dream. 
 
