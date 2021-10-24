@@ -12,7 +12,7 @@
          - https://www.runnersworld.com/advanced/a20805292/running-for-a-cause/#
          - https://blog.fitbit.com/run-for-a-good-cause/ 
          - https://therunningcharity.org/
-         - https://therunningcharity.org/
+         - https://runforcharity.com/
          - https://www.motivrunning.com/
          - https://www.bing.com/videos/search?q=youtube+run+for+charity&qpvt=youtube+run+for+charity&FORM=VDRE
                                                                     
