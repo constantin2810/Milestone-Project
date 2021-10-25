@@ -83,6 +83,9 @@ footer {
     margin-bottom: 0;
     
     
+   
+    
+    
 }
 
 #photo img {
@@ -229,6 +232,12 @@ tr td {
     color: black;
     padding: 3px;
 
+  }
+
+  .valid {
+    border:0;
+    width:88px;
+    height:31px;
   }
 
   
