@@ -218,7 +218,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   Tutor support at Code Institute for their support.
 
--     THANK YOU all for your support.
+-   THANK YOU all for your support.
 
 
 
