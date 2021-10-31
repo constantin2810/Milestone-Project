@@ -44,7 +44,8 @@
     
 -   ### Wireframes
 
-    -  Mobile, Tablet, and Desktop wireframes are all available [here.](docs/Milestone 1.pdf)
+    -  Mobile, Tablet, and Desktop wireframes are all available [here.](docs/wireframes.pdf)
+  * ## Design
 
 -   ### Design
     -   #### Colour Scheme
