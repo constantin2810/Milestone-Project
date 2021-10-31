@@ -16,9 +16,25 @@ header {
 }
 
   /*--Main image--*/
- 
+
+  /*--Use media queries for background-image--*/
+  
+  @media (max-width: 480px) {
+    .bg-image {
+        background-image: url(https://www.fitneass.com/wp-content/uploads/2015/05/Charity-Run.jpg);
+    }
+}
+  @media (min-width: 481px) and (max-width: 1024px) {
+    .bg-image {
+        background-image: url(https://www.fitneass.com/wp-content/uploads/2015/05/Charity-Run.jpg);
+    }
+}
+  @media (min-width: 1025px) {
+    .bg-image {
+	    background-image: url(https://www.fitneass.com/wp-content/uploads/2015/05/Charity-Run.jpg);
+   }
+}
 .bg-image {
-    background-image:url(https://www.fitneass.com/wp-content/uploads/2015/05/Charity-Run.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
