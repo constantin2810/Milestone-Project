@@ -17,7 +17,8 @@ header {
 
   /*--Main image--*/
 
-  /*--Use media queries for background-image--*/
+  /*--Use media queries credit https://web.dev/optimize-css-background-images-with-media-queries/ --*/
+
   
   @media (max-width: 480px) {
     .bg-image {

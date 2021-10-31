@@ -213,7 +213,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Content
 
 -   All content was written by the developer.
-
+-   Credit to [web.dev](https://web.dev/optimize-css-background-images-with-media-queries/) for the media-queries that I adapted.
 
 ### Acknowledgements
 
