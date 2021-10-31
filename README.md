@@ -52,7 +52,9 @@
     -   #### Typography
         -   The Roboto font is the main font used throughout the whole website.
     -   #### Imagery
-        -   Imagery is important. The large, background image is designed to be striking and catch the user's attention.
+        -   Imagery is important. The large, background image is designed to be striking and catch the user's attention.Imagery was sourced from the website [Pexels](https://www.pexels.com/)
+    -   #### Favicon
+        -   I used the [Freefavicon](https://www.freefavicon.com/) website for the favicon icon.
 
 ## Features
 
@@ -121,9 +123,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
         1. The navigation bar clearly highlights the "Contact Us" Page.
         2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
+        3. The footer contains links to the organisations Facebook,YouTube, Twitter and Instagram page.
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
+        
 
     3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
          The Facebook Page can be found at "Join Now" page and will open a new tab for the user and more information can be found on the Facebook page.   
@@ -214,7 +216,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor Antonio Rodriguez for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
 
