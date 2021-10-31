@@ -16,13 +16,13 @@ header {
 }
 
   /*--Main image--*/
-
+ 
 .bg-image {
-    background-image: url(https://www.fitneass.com/wp-content/uploads/2015/05/Charity-Run.jpg);
+    background-image:url(https://www.fitneass.com/wp-content/uploads/2015/05/Charity-Run.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     height: 80vh;
 }
 
